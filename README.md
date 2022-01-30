@@ -1,3 +1,3 @@
 # getting-started
 
-Personal copy of code whilst following docker project.
+Personal copy of code whilst following docker getting started tutorial.
